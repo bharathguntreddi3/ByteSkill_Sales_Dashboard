@@ -17,7 +17,7 @@ This repository contains the analysis of the sales data of ByteSkill using SQL a
 
 <img src="ByteSkill_Sales_Dashboard.png">
 
-<p><a href="https://app.powerbi.com/links/-9xaa8EIvx?ctid=63b5c61a-66d9-46b2-9b8d-10c275a4acac&pbi_source=linkShare">Click Here</a> to view the published interactive dashboard.</a></p>
+<h1><a href="https://app.powerbi.com/links/-9xaa8EIvx?ctid=63b5c61a-66d9-46b2-9b8d-10c275a4acac&pbi_source=linkShare">Click Here</a> to view the published interactive dashboard.</a></h1>
 
 ## Features
 
